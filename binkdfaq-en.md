@@ -1,9 +1,11 @@
-        binkd FAQ
+        ### binkdfaq-en.md
+        
+# binkd FAQ
 
         Frequently Asked Questions on FTN Mailer binkd
         $Date: 2015/06/25 13:37:02 $
 
-    This list of Frequently Asked Questions was compiled from the questions
+- This list of Frequently Asked Questions was compiled from the questions
 that were asked in the Russian echo conference RU.BINKD. Some part of the
 answers is based on the developers' recommendations. Please send your
 comments and updates to Stas Degteff 2:5080/102. This list was translated
